@@ -1,4 +1,4 @@
-"""AXL <addPhone> sample script, using the zeep library
+"""AXL <addRoutePartition> sample script, using the zeep library
 
 __author__  = "Ilker MANSUR"
 __version__ = "1.0"
